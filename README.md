@@ -1,4 +1,9 @@
 # react-course-code
+## 启动项目和依赖安装
+nodejs18以上，yarn安装。
+
+
+
 
 掘金小册[《React 通关秘籍》](https://juejin.cn/book/7294082310658326565)案例代码
 
